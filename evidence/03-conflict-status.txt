@@ -1,5 +1,0 @@
-DU test/test_validator.py
-UU validator.py
-?? __pycache__/
-?? evidence/
-?? tests/__pycache__/

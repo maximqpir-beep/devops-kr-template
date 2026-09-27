@@ -1,4 +1,0 @@
-59c4f26 fix: typo in phone validation docstring
-fd699f0 wip: start INN validation
-c4c7b26 test: add phone validation tests
-cd174cf feat: add phone validation function
