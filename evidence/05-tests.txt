@@ -1,0 +1,8 @@
+test_validate_email (test_validator.TestValidator.test_validate_email) ... ok
+test_validate_phone (test_validator.TestValidator.test_validate_phone) ... ok
+test_validate_phone_formatting (test_validator.TestValidator.test_validate_phone_formatting) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
